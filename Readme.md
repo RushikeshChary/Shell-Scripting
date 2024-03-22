@@ -1,7 +1,7 @@
 # Shell Scripting
 Its a simple shell script assignment (of course CS253) using sed, awk and some other tools to scrap a specific type of data from given CSV file.
 Read the question in this [pdf](https://github.com/RushikeshChary/Shell-Scripting/blob/main/2024_shell_scripting_assignment.pdf) to get more information.
-
+The given output.txt file is example of how an ouput file will be generated.
 ## Usage
 Make sure to check whether the file main.sh has required permissions to be executable.
 If not, run the following command.
